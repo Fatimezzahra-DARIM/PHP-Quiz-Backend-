@@ -1,0 +1,58 @@
+// //Creating an array and passing the number,questions,options, and 
+// let questions = [
+//   {
+//     numb: 1,
+//     question: "What does PHP stand for?",
+//     answer: 3,
+
+//     choix1: "Private Home Page",
+//     choix2: "Private Hypertext Processor",
+//     choix3: "Hypertext Preprocessor",
+//     choix4: "Personal Hypertext Processor",
+//   },
+//   {
+//     numb: 2,
+//     question: "In Object Oriented PHP, how to access attributes of a class?",
+//     answer: 3,
+//     // options: ["classe()", "return()", "$this", "attrib()"],
+//     choix1: "classe()",
+//     choix2: "return()",
+//     choix3: "$this",
+//     choix4: "attrib()",
+//   },
+//   {
+//     numb: 3,
+//     question: "How to sort an array?",
+//     answer: 3,
+//     choix1: "ascending()",
+//     choix2: "asc()",
+//     choix3: "sort()",
+//     choix4: "orderby()",
+//     // options: ["ascending()", "asc()", "sort()", "orderby()"],
+//   },
+//   {
+//     numb: 4,
+//     question: "The escape character is",
+//     answer: 2,
+//     // options: ['"', "\\", "/", "#"],
+//     choix1: '"',
+//     choix2: "\\",
+//     choix3: "/",
+//     choix4: "#",
+//   },
+//   {
+//     numb: 5,
+//     question: "How to get the unique ID of a session?",
+//     answer: 3,
+//     choix1: "$_SESSION['ID_PHP']",
+//     choix2: "get_session()",
+//     choix3: "session_id()",
+//     choix4: "$_SESSION['ID']",
+//     // options: [
+//     //   "$_SESSION['ID_PHP']",
+//     //   "get_session()",
+//     //   "session_id()",
+//     //   "$_SESSION['ID']",
+//     // ],
+//   },
+// ];
