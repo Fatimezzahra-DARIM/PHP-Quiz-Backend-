@@ -1,8 +1,11 @@
 # PHP-Quiz Backend  
-****Contexte du projet****  
-Après la réalisation de la partie frontend, votre Tech Lead a proposé une solution étant qu'un développeur Backend, cette tâche consiste à ajouter une tâche qui permet   d'enregister les questions et les réponses dans une base de données. pour finaliser l'application web PHP knowledge Test.  
-****Exigences:****  
-Etant que développeur backend je peux créer une base de données. Insérer les données dans GUI phpMyAdmin.  
-Etant que développeur backend je peux créer des classes php pour récupérer les données.  
-Etant que développeur backend je peux créer une fonction afin d'évaluer les questions envoyées par les utilisateurs.(optionnel)  
-Etant que développeur backend je peux avoir l'historique des tests réalisés dans la base de données, les informations comprennent la date et l'heur de chaque test,   le résultat (Score), l'adresse IP, OS, Browser .... (optionnel)  
+****Context of the project****  
+After the realization of the frontend part, your Tech Lead proposed a solution being that  
+a Backend developer, this task consists in adding a task which makes it possible to record   
+the questions and the answers in a database. to finalize the PHP knowledge Test web application.  
+****Requirements:****  
+✔ As a backend developer I can create a database. Insert data in phpMyAdmin GUI.  
+✔ As a backend developer I can create php classes to retrieve data.  
+✔ As a backend developer I can create a function to evaluate questions sent by users. (optional)  
+✔ As a backend developer I can have the history of the tests carried out in the database,
+the information includes the date and time of each test, the result (Score), the IP address, OS, Browser .... (optional)  
